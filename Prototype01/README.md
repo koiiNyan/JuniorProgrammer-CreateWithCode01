@@ -8,6 +8,7 @@ Play here: https://play.unity.com/mg/other/webgl-builds-172299
 - Car has wheel colliders
 - Multiple objects you can run into
 - 2 cars drive towards you and are destroyed at the end of the road, then respawn 
+- Press 1 on keyboard to change the scene
 
 
 <p align="center">
@@ -21,6 +22,7 @@ Play here: https://play.unity.com/mg/other/webgl-builds-172299
 - Move airplain with WA
 - Airplane's propeller swings
 - Walls you can bump into
+- Press 1 on keyboard to change the scene
 
 <p align="center">
   <img src="https://github.com/koiiNyan/JuniorProgrammer-CreateWithCode01/blob/main/Prototype01/Images/5.png">
