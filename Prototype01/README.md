@@ -7,7 +7,7 @@ Play here: https://play.unity.com/mg/other/webgl-builds-172299
 - UI elements: current speed and rmp
 - Car has wheel colliders
 - Multiple objects you can run into
-- 2 cars drives towards you and are destroyed at the end of the road, then respawn 
+- 2 cars drive towards you and are destroyed at the end of the road, then respawn 
 
 
 <p align="center">
