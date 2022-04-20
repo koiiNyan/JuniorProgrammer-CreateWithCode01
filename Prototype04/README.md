@@ -5,7 +5,7 @@ Play here: https://play.unity.com/mg/other/webgl-builds-180018
 
 - Move the ball forward/backward: WS
 - Rotate the camera: AD
-- Enemies spawn randomly in ramdom position. Vawes spawn after all enemies are gone.
+- Enemies spawn randomly in random position. Vawes spawn after all enemies are gone.
 - Every vawe spawn increased amount of enemies.
 - Every 3rd vawe spawns the boss
 - Boss spawns minions
